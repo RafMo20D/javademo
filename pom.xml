@@ -11,8 +11,9 @@
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Service CI/CD using AWS CodePipeline</description>
+	<name>demojava</name>
+	<description>Demo project for Spring Boot</description>
+	<description>Order Service CI/CD using AWS CodePipeline</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
