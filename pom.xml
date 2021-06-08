@@ -15,12 +15,11 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
-	</properties>
-	<properties>
-                <sonar.projectKey>RafMo20D_demojava</sonar.projectKey>
+		<sonar.projectKey>RafMo20D_demojava</sonar.projectKey>
                 <sonar.organization>rafmo20d</sonar.organization>
                 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        </properties>
+	</properties>
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
